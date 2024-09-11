@@ -11,3 +11,9 @@ Answer: Data science can be applied to almost every single industry that uses da
 give would be using data science in the field of healthcare where professionals can use data science to identify 
 early disease detection among patients based on past data. The medical models can be used to predict the likelhiood 
 of a disease and start prevenative care early on.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines branches and preserves the full commit history while rebasing rewrites history to create a linear sequence of 
+commits, making the commit history clear but more complex if there are conflicts. Merging is perfered if we want to keep a full history of 
+changes while rebasing is for maintaining a clean commit history.
